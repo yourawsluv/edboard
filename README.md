@@ -7,7 +7,7 @@ Product:
 
 Value: 
 удобное рабочее пространство и интерактивное обучение
-Конкурентный анализ: SOHO, Яндекс практикум, ВК доска, Miro, Calendly, VK
+Конкурентный анализ: [Фоксфорд](https://foxford.ru/), [SOHO](https://soholms.com/), [Яндекс](https://practicum.yandex.ru/), ВК доска, Miro, Calendly, VK
 
 CJM:
 1. Расписание Shedule
